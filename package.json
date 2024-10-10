@@ -1,0 +1,14 @@
+{
+  "name": "desafio-node.js",
+  "version": "1.0.0",
+  "description": "Projeto para Estagio",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "Kaio Ghesa",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
