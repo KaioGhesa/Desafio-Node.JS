@@ -4,11 +4,14 @@
   "description": "Projeto para Estagio",
   "main": "index.js",
   "scripts": {
-    "start": "node index"
+    "start": "node index",
+    "dev": "nodemon index"
   },
   "author": "Kaio Ghesa",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.21.1"
+    "ejs": "^3.1.10",
+    "express": "^4.21.1",
+    "nodemon": "^3.1.7"
   }
 }
